@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "JoinFS-CONSOLE/3.2.17": {
+        "runtime": {
+          "JoinFS-CONSOLE.dll": {}
+        },
+        "resources": {
+          "de/JoinFS-CONSOLE.resources.dll": {
+            "locale": "de"
+          },
+          "es/JoinFS-CONSOLE.resources.dll": {
+            "locale": "es"
+          },
+          "fr/JoinFS-CONSOLE.resources.dll": {
+            "locale": "fr"
+          },
+          "it/JoinFS-CONSOLE.resources.dll": {
+            "locale": "it"
+          },
+          "ko/JoinFS-CONSOLE.resources.dll": {
+            "locale": "ko"
+          },
+          "nl/JoinFS-CONSOLE.resources.dll": {
+            "locale": "nl"
+          },
+          "pt/JoinFS-CONSOLE.resources.dll": {
+            "locale": "pt"
+          },
+          "ru/JoinFS-CONSOLE.resources.dll": {
+            "locale": "ru"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JoinFS-CONSOLE/3.2.17": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
