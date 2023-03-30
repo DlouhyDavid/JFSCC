@@ -1,5 +1,5 @@
 # JFSCC
-Dokcer contianer for JoinFS-CONSOLE
+Docker container for JoinFS-CONSOLE
 
 ## Usage
 
