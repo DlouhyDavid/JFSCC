@@ -6,7 +6,7 @@ Dokcer contianer for JoinFS-CONSOLE
 1. Build image
 
 ```bash
-docker build -t jfscc:1.0.0
+docker build -t jfscc:1.0.0 .
 ```
 
 2. Prepare your env file. You can copy the ``.env.example`` and add the required values. The meaning of the values is in the following table.
