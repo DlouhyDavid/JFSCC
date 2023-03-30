@@ -51,6 +51,6 @@ docker build -t jfscc:1.0.0 .
 
 
 ```bash
-docker run --name jfscc --env-file .env -p 6112:6112 --restart unless-stopped -it -d jfscc:1.0.0 /bin/sh -c "bash /srv/JoinFS-CONSOLE/start-hub.sh
+docker run --name jfscc --env-file .env -p 6112:6112 --restart unless-stopped -it -d jfscc:1.0.0 /bin/sh -c "bash /srv/JoinFS-CONSOLE/start-hub.sh"
 ```
 
